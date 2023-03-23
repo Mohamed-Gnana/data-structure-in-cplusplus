@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599695589 source:c:\users\gnana\desktop\ds\graphbfs\main.cpp
+	<iostream>
+	<list>
+

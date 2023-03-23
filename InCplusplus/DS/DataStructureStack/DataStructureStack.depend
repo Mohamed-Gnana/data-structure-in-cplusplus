@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630814744 source:c:\users\gnana\desktop\ds\datastructurestack\main.c
+	<stdio.h>
+	<stdlib.h>
+

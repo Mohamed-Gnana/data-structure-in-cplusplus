@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598189041 source:c:\users\gnana\desktop\ds\balanced\main.cpp
+	<iostream>
+	<string>
+	<stack>
+

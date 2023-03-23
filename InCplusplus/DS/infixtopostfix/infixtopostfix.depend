@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598196452 source:c:\users\gnana\desktop\ds\infixtopostfix\main.cpp
+	<iostream>
+	<string>
+	<stack>
+
